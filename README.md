@@ -1,6 +1,7 @@
 # React Restaurant
 This repository contains the source code for a modern and user-friendly website designed for a restaurant business.
-The design is from iqonic.design. You can find the figma file [here](https://www.figma.com/file/yvClSI9AZBRX8UaaGEByF3/Modern-UI%2FUX%3A-Gericht?node-id=0-1&t=0zbCpiFgVYAhU8XE-0).
+The design is from iconic.design. You can find the figma file [here](https://www.figma.com/file/yvClSI9AZBRX8UaaGEByF3/Modern-UI%2FUX%3A-Gericht?node-id=0-1&t=0zbCpiFgVYAhU8XE-0).
+![Preview](images/preview.png)
 
 ## How to run
 
