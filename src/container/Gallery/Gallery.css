@@ -48,7 +48,7 @@
     margin-right: 2rem;
 }
 
-.gallery__image-icon {
+.app__gallery__image-icon {
     position: absolute;
     color: #fff;
     font-size: 2rem;
@@ -69,7 +69,7 @@
     opacity: .35;
 }
 
-.app__gallery-images_card:hover .gallery__image-icon {
+.app__gallery-images_card:hover .app__gallery__image-icon {
     opacity: 1;
 }
 
